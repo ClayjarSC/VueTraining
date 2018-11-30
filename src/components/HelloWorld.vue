@@ -6,6 +6,9 @@
     <ul>
       <li><router-link class="nav-link " to="/login"> Login</router-link></li>
       <li><router-link class="nav-link " to="/logout"> Logout</router-link></li>
+      <li>
+        <router-link class="nav-link" to="/dashboard"> Dashboard</router-link>
+      </li>
     </ul>
   </div>
 </template>
